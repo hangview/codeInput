@@ -1,5 +1,6 @@
 
 $(document).ready(function(){
+    $('#char0').focus()
     codeInput()
 })
 
